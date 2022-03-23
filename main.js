@@ -2,7 +2,7 @@
 var i = 0;
 var tichluy = 0;
 var kq = 0
-while (tichluy <= 10) {
+while (tichluy <= 1000) {
     tichluy += i;
     kq = i;
     i++;
